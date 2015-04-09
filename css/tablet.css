@@ -1,0 +1,52 @@
+﻿@media screen and (max-width: 1110px) {
+
+#header {
+	height:420px
+}
+
+#header-title {
+	padding:20% 0px 0px 0px;
+}
+
+#contents {
+	width:100%;
+	min-width:initial;
+	min-width:auto;
+	margin: 0 auto;
+}
+
+#main-contents {
+	width:80%;
+	float:none;
+	margin:0 auto;
+}
+
+.post {
+	width:100%;
+}
+
+#sidebar {
+	width:90%;
+	padding:0;
+	float:none;
+	margin:0 auto;
+	border-left:none;
+}
+
+#sidebar li {
+	font-size:13px;
+}
+
+#renew {
+	float:left;
+	padding-left:20px;
+	width:40%;
+}
+
+#cate {
+	float:right;
+	padding-right:20px;
+	width:40%;
+}
+
+}

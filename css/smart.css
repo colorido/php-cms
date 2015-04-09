@@ -1,0 +1,71 @@
+﻿@media screen and (max-width: 620px) {
+
+#header {
+	height:300px
+}
+
+#header-title {
+	padding:17% 0px 0px 0px;
+}
+
+#header-title h1{
+	font-size:30px
+}
+
+#header-title p{
+	font-size:13px;
+}
+
+
+#gnav ul {
+	width:87%;
+	margin:0 0 34px; 0;
+}
+
+#gnav li a {
+	font-size:12px;
+}
+
+#contents {
+	width:100%;
+	float:none;
+	min-width:initial;
+	min-width:auto;
+	margin: 0 auto;
+}
+
+#main-contents {
+	width:80%;
+	float:none;
+	margin:0 auto;
+}
+
+.post {
+	width:100%;
+}
+
+#sidebar {
+	width:90%;
+	float:none;
+	border-left:none;
+	padding:0;
+	margin:0 auto;
+}
+
+#sidebar li {
+	font-size:13px;
+}
+
+#renew {
+	float:left;
+	padding-left:20px;
+	width:40%;
+}
+
+#cate {
+	float:right;
+	padding-right:20px;
+	width:40%;
+}
+
+}
