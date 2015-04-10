@@ -1,3 +1,3 @@
 *PHP-CMS*
   
-PHP�ŏ����ꂽCMS�ł�
+PHPで書かれたCMSです
